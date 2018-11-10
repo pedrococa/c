@@ -21,6 +21,10 @@ The registry at registry.terraform.io only hosts public modules, but most organi
 
 If your organization is specialized enough that teams frequently use modules created by other teams, you will benefit from a private module registry.
 
+# Sentinel
+
+Sentinel is an embedded policy-as-code framework integrated with the HashiCorp Enterprise products. It enables fine-grained, logic-based policy decisions, and can be extended to use information from external sources.
+
 # Policy as code:
 
 We will use a module that has no tags and if we put in place a policy that checks the existence of tags in the instances that we spin, we will see how Sentinel will detect it and depending on the policy level will act accordingly.
