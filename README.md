@@ -2,7 +2,7 @@
 
 This repo is used to perform TFE (SaaS) demos with AWS.
 
-In order to perform the demo correctly, the github access should be [https://www.terraform.io/docs/enterprise/vcs/github.html](configured accordingly) in TFE.
+In order to perform the demo correctly, the github access should be [configured accordingly](https://www.terraform.io/docs/enterprise/vcs/github.html) in TFE.
 
 # Workspaces and organisations
 
@@ -11,7 +11,7 @@ Terraform wraps this simple notion with a set of protections and support for rem
 
 As an example, you can use a different workspace in order to have a staging environment in another AWS region.
 
-You can view [https://www.youtube.com/watch?v=atBRAG_3yNQ](this video) showcasing workspaces in Terraform Enterprise.
+You can view a [video](https://www.youtube.com/watch?v=atBRAG_3yNQ) showcasing workspaces in Terraform Enterprise.
 
 Organizations are a shared space for teams to collaborate on workspaces in Terraform Enterprise.
 
