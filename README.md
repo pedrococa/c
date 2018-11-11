@@ -4,6 +4,12 @@ This repo is used to perform TFE (SaaS) demos with AWS.
 
 In order to perform the demo correctly, the github access should be [configured accordingly](https://www.terraform.io/docs/enterprise/vcs/github.html) in TFE.
 
+# Phases and Patterns on Terraform adoption
+
+ - Individual use
+ - Teams
+ - Organizations
+
 # Workspaces and Organizations
 
 Workspaces are technically equivalent to renaming your state file. They are not any more complex than that.
