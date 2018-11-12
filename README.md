@@ -20,6 +20,8 @@ As an example, you can use a different workspace in order to have a staging envi
 You can view a [video](https://www.youtube.com/watch?v=atBRAG_3yNQ) showcasing workspaces in Terraform Enterprise.
 
 Organizations are a shared space for teams to collaborate on workspaces in Terraform Enterprise.
+Organizations are a group of users in Terraform Enterprise that have access and ownership over shared resources.
+When operating within a team, we recommend creating an organization to manage access control, auditing, billing and authorization.
 
 # Private Module Registry
 
